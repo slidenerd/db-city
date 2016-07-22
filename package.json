@@ -1,0 +1,39 @@
+{
+  "name": "db-city",
+  "version": "1.0.2",
+  "description": "A big city database Array with 3173959 cities with its coordinates",
+  "main": "index.js",
+  "scripts": {
+    "test": "require('db-city')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdennour/db-city.git"
+  },
+  "keywords": [
+    "database",
+    "city",
+    "country",
+    "data",
+    "entries",
+    "longitude",
+    "latitude",
+    "coordinates",
+    "address",
+    "ETL",
+    "BI",
+    "world",
+    "timezone",
+    "region",
+    "population"
+  ],
+  "author": "Abdennour TOUMI <http://abdennoor.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abdennour/db-city/issues"
+  },
+  "homepage": "https://github.com/abdennour/db-city#readme",
+  "dependencies": {
+    "node-etl": "^1.0.1"
+  }
+}
